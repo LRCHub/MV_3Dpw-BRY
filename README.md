@@ -1,0 +1,40 @@
+# Kavinsky – Nightcall
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm giving you a night call
+To tell you how I feel
+I'm gonna drive you through the night
+Down the hills
+I'm gonna tell you something
+You don't want to hear
+I'm gonna show you where it's dumped
+But have no fear
+There's something inside you
+It's hard to explain
+There's something inside you, boy
+But you're still the same
+I'm giving you a night call
+To tell you how I feel
+I'm gonna drive you through the night
+Down the hills
+I'm gonna tell you something
+You don't want to hear
+I'm gonna show you where it's dumped
+But have no fear
+There's something inside you
+And it's hard to explain
+They're talking about you, boy
+But you're still the same
+Tell you how, tell you how
+Tell you how
+I'm giving you a night call
+To tell you how I feel
+I'm gonna drive you through the night
+Down the hills
+I'm gonna tell you something
+You don't want to hear
+I'm giving you a night call
+To tell you how I feel and how I feel
+```
