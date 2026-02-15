@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Nightcall",
+  "base_artist": "Kavinsky",
+  "createdAt": "2026-02-15T09:53:42.706726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nightcall (Special Request VIP)",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/01_Nightcall_(Special_Request_VIP)_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nightcall ['Special Request' VIP mix]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/02_Nightcall_['Special_Request'_VIP_mix]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nightcall (Freemasons' Pegasus Club Mix)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/03_Nightcall_(Freemasons'_Pegasus_Club_Mix)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nightcall (Pet Moon Remix)",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/04_Nightcall_(Pet_Moon_Remix)_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nightcall - Isaac Tichauer Remix",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/05_Nightcall_-_Isaac_Tichauer_Remix_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nightcall (Joe Goddard Remix)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/06_Nightcall_(Joe_Goddard_Remix)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nightcall",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/07_Nightcall_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nightcall [Kavinsky cover]",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/08_Nightcall_[Kavinsky_cover]_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nightcall - LG Re-Edit",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/09_Nightcall_-_LG_Re-Edit_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nightcall [LG re-edit]",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/10_Nightcall_[LG_re-edit]_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nightcall [Pet Moon remix]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/11_Nightcall_[Pet_Moon_remix]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nightcall (Raaja Bones & Fyfe Dangerfield Remix)",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/12_Nightcall_(Raaja_Bones_&_Fyfe_Dangerfield_Remix)_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nightcall [Raaja Bones & Fyfe Dangerfield remix]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/13_Nightcall_[Raaja_Bones_&_Fyfe_Dangerfield_remix]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nightcall (Radio Edit)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/14_Nightcall_(Radio_Edit)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nightcall [radio edit]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/15_Nightcall_[radio_edit]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nightcall (Special Request VIP Extended)",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/16_Nightcall_(Special_Request_VIP_Extended)_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nightcall [special request VIP extended mix]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/17_Nightcall_[special_request_VIP_extended_mix]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nightcall",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/18_Nightcall_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Nightcall",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/19_Nightcall_London_Grammar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nightcall",
+      "artist": "Kavinsky",
+      "has_synced": false,
+      "path": "select/pl_01_Nightcall_Kavinsky.txt"
+    }
+  ]
+}
